@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\OpenCV-3.0.0-android-sdk-1\OpenCV-android-sdk\Projects\Facedetection\libraries\opencv\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\OpenCV-3.0.0-android-sdk-1\OpenCV-android-sdk\Projects\Facedetection\libraries\opencv\src\debug\assets"/></dataSet></merger>
